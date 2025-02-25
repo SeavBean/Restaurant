@@ -523,7 +523,7 @@ hr {
     padding: 50px 20px;
     margin-top: 10px;
     background-color: #333;
-    background: url(/img/Event_img/bg_events.png);
+    background: url(img/Event_img/bg_events.png);
 }
 .Events li {
     list-style-type: none;
